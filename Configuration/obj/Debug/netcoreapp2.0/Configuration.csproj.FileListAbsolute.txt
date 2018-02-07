@@ -1,0 +1,9 @@
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\Configuration\bin\Debug\netcoreapp2.0\Configuration.deps.json
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\Configuration\bin\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\Configuration\bin\Debug\netcoreapp2.0\Configuration.pdb
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\Configuration\obj\Debug\netcoreapp2.0\Configuration.csprojResolveAssemblyReference.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\Configuration\obj\Debug\netcoreapp2.0\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\Configuration\obj\Debug\netcoreapp2.0\Configuration.AssemblyInfoInputs.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\Configuration\obj\Debug\netcoreapp2.0\Configuration.AssemblyInfo.cs
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\Configuration\obj\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\Configuration\obj\Debug\netcoreapp2.0\Configuration.pdb

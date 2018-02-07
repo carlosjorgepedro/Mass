@@ -1,0 +1,15 @@
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\bin\Debug\netcoreapp2.0\MassTransit.Publisher.deps.json
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\bin\Debug\netcoreapp2.0\MassTransit.Publisher.runtimeconfig.json
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\bin\Debug\netcoreapp2.0\MassTransit.Publisher.runtimeconfig.dev.json
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\bin\Debug\netcoreapp2.0\MassTransit.Publisher.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\bin\Debug\netcoreapp2.0\MassTransit.Publisher.pdb
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\obj\Debug\netcoreapp2.0\MassTransit.Publisher.csprojResolveAssemblyReference.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\obj\Debug\netcoreapp2.0\MassTransit.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\obj\Debug\netcoreapp2.0\MassTransit.Publisher.AssemblyInfoInputs.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\obj\Debug\netcoreapp2.0\MassTransit.Publisher.AssemblyInfo.cs
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\obj\Debug\netcoreapp2.0\MassTransit.Publisher.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\obj\Debug\netcoreapp2.0\MassTransit.Publisher.pdb
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\bin\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\bin\Debug\netcoreapp2.0\Configuration.pdb
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\bin\Debug\netcoreapp2.0\Sample.Messages.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Publisher\bin\Debug\netcoreapp2.0\Sample.Messages.pdb

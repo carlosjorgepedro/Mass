@@ -1,0 +1,15 @@
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\bin\Debug\netcoreapp2.0\MassTransit.WebPublisher.deps.json
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\bin\Debug\netcoreapp2.0\MassTransit.WebPublisher.runtimeconfig.json
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\bin\Debug\netcoreapp2.0\MassTransit.WebPublisher.runtimeconfig.dev.json
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\bin\Debug\netcoreapp2.0\MassTransit.WebPublisher.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\bin\Debug\netcoreapp2.0\MassTransit.WebPublisher.pdb
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\obj\Debug\netcoreapp2.0\MassTransit.WebPublisher.csprojResolveAssemblyReference.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\obj\Debug\netcoreapp2.0\MassTransit.WebPublisher.csproj.CoreCompileInputs.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\obj\Debug\netcoreapp2.0\MassTransit.WebPublisher.AssemblyInfoInputs.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\obj\Debug\netcoreapp2.0\MassTransit.WebPublisher.AssemblyInfo.cs
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\obj\Debug\netcoreapp2.0\MassTransit.WebPublisher.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\obj\Debug\netcoreapp2.0\MassTransit.WebPublisher.pdb
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\bin\Debug\netcoreapp2.0\Sample.Messages.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\bin\Debug\netcoreapp2.0\Sample.Messages.pdb
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\bin\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.WebPublisher\bin\Debug\netcoreapp2.0\Configuration.pdb

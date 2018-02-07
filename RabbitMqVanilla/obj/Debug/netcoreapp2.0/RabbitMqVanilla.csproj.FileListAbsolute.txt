@@ -1,0 +1,3 @@
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\RabbitMqVanilla\obj\Debug\netcoreapp2.0\RabbitMqVanilla.csproj.CoreCompileInputs.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\RabbitMqVanilla\obj\Debug\netcoreapp2.0\RabbitMqVanilla.AssemblyInfoInputs.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\RabbitMqVanilla\obj\Debug\netcoreapp2.0\RabbitMqVanilla.AssemblyInfo.cs

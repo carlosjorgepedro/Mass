@@ -1,0 +1,15 @@
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\bin\Debug\netcoreapp2.0\MassTransit.Receiver.deps.json
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\bin\Debug\netcoreapp2.0\MassTransit.Receiver.runtimeconfig.json
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\bin\Debug\netcoreapp2.0\MassTransit.Receiver.runtimeconfig.dev.json
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\bin\Debug\netcoreapp2.0\MassTransit.Receiver.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\bin\Debug\netcoreapp2.0\MassTransit.Receiver.pdb
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\obj\Debug\netcoreapp2.0\MassTransit.Receiver.csprojResolveAssemblyReference.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\obj\Debug\netcoreapp2.0\MassTransit.Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\obj\Debug\netcoreapp2.0\MassTransit.Receiver.AssemblyInfoInputs.cache
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\obj\Debug\netcoreapp2.0\MassTransit.Receiver.AssemblyInfo.cs
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\obj\Debug\netcoreapp2.0\MassTransit.Receiver.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\obj\Debug\netcoreapp2.0\MassTransit.Receiver.pdb
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\bin\Debug\netcoreapp2.0\Sample.Messages.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\bin\Debug\netcoreapp2.0\Sample.Messages.pdb
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\bin\Debug\netcoreapp2.0\Configuration.dll
+C:\Users\Carlos.Jorge\source\repos\RabbitMqPlayground\MassTransit.Receiver\bin\Debug\netcoreapp2.0\Configuration.pdb
